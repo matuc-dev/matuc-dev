@@ -6,7 +6,7 @@
 **👯 I'm learning Deno.**  
 
 # 🌐Top Language and Tool
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,html,css,tailwindcss,react,nextjs,python,deno)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,tailwindcss,react,nextjs,python,deno)](https://skillicons.dev)
 
 
 # 📕 GitHub Stats
