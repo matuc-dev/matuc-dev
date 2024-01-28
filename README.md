@@ -6,7 +6,7 @@
 
 
 # 📕 Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matuc-dev&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matuc-dev&layout=compact)
 
 
 
