@@ -7,7 +7,7 @@
 
 # 📕 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matuc-dev&layout=compact&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matuc-dev)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matuc-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
