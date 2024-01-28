@@ -5,7 +5,9 @@
 **👯 I'm learning Deno.**  
 
 
-# Favorite Language
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matuc-dev)](https://github.com/anuraghazra/github-readme-stats)
+# 📕 Top Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matuc-dev&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 
 
