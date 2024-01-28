@@ -6,7 +6,7 @@
 **👯 I'm learning Deno.**  
 
 # 🌐Top Language and Tool
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"></img>
 
 
 # 📕 GitHub Stats
